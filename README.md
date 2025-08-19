@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**kelvin587-12/kelvin587-12** 
-
-
-
 - 👷‍♂️ I’m currently working with tooling ...
 - 📘 I am learning systems analysis and development ... 
 - 💻 I am looking to develop myself to become an excellent professional ... 
@@ -12,3 +7,8 @@
 - 🗣️ I'm open to feedback ...
 - 📥 you can contact me by email almeidakelvin@icloud.com ...
 -->
+
+
+
+
+
